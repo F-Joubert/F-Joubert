@@ -16,3 +16,7 @@ jobs:
         with:
           trailhead-username: 'fergusj'
           display-type: 'card'
+          display-file: 'README.md'
+          file-format: 'html'
+          card-path: './'
+          nb-skills: 3
