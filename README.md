@@ -1,8 +1,7 @@
-# Hello, GitHub!
+# Hello, I'm Fergus!
 
 ## About me
-- I'm Fergus
-- Software developer for a non-profit organisation.
+- Software developer for a non-profit organisation
 - Working towards a Platform Developer 1 Certification
 
 <!--
