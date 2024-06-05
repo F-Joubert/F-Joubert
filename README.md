@@ -32,47 +32,33 @@ Here are some ideas to get you started:
 <summary><h2>Technologies & Tools</h2></summary>
 <h4>Languages</h4>
 <div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,py,cs" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,py,cs" />
 </div>
 
 <h4>Frontend Technologies</h4>
 <div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,react,css" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,react,css" />
 </div>
 
 <h4>Backend Technologies</h4>
 <div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,azure" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,azure" />
 </div>
 
 <h4>Databases</h4>
 <div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,postgres" />
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,sqlite,postgres" />
 </div>
 
 <h4>OS, IDE, & Other Tools</h4>
 <div align="left" style="margin-bottom: 0px">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=debian,windows"/>
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=debian,windows"/>
 </div>
 <div style="margin-bottom: 0px; padding: 0px">
-  <a>
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscodium"/>
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscodium"/>
 </div>
 <div>
-  <a>
-    <img src="https://skillicons.dev/icons?i=git,postman,github,bash,qt,powershell"/>
-  </a>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,postman,github,bash,qt,sharepoint,powershell,jira"/>
 </div>
 </details>
 
