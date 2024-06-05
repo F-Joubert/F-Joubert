@@ -31,32 +31,32 @@ Here are some ideas to get you started:
 <details open>
 <summary><h2>Technologies & Tools</h2></summary>
 <h4>Languages</h4>
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,py,cs" />
   </a>
-</p>
+</div>
 
 <h4>Frontend Technologies</h4>
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,react,css" />
   </a>
-</p>
+</div>
 
 <h4>Backend Technologies</h4>
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flask,azure" />
   </a>
-</p>
+</div>
 
 <h4>Databases</h4>
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sqlite,postgres" />
   </a>
-</p>
+</div>
 
 <h4>OS, IDE, & Other Tools</h4>
 <div align="left" style="margin-bottom: 0px">
