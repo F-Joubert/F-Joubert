@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 <details open>
 <summary><h3>Trailhead Stats</h3></summary>
 <!--TH_Stats:start-->
+
 <a href="https://www.salesforce.com/trailblazer/fergusj">
 <picture>
     <source media="(prefers-color-scheme: light)" srcset="TScard-light.png">
