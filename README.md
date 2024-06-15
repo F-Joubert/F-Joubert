@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-two-murex-29.vercel.app/api?username=F-Joubert&theme=github_dark" />
 </a>
-<!-- <a href="https://github.com/F-Joubert">
+<a href="https://github.com/F-Joubert">
   <img height=200 align="center" src="https://github-readme-stats-two-murex-29.vercel.app/api/top-langs?username=F-Joubert&theme=github_dark&layout=compact&card_width=100" />
-</a> -->
+</a>
 </details>
 
 <details open>
