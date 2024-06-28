@@ -32,12 +32,12 @@ Here are some ideas to get you started:
 <summary><h2>Technologies & Tools</h2></summary>
 <h4>Languages</h4>
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,py,cs" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,py,typescript,cs" />
 </div>
 
 <h4>Frontend Technologies</h4>
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,react,css" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,react,tailwindcss,css" />
 </div>
 
 <h4>Backend Technologies</h4>
