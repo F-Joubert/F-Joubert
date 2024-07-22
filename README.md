@@ -42,12 +42,7 @@ Here are some ideas to get you started:
 
 <h4>Backend Technologies</h4>
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,azure,dotnet,mongodb" />
-</div>
-
-<h4>Databases</h4>
-<div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,sqlite,postgres" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mongodb,azure,sqlite,postgres,dotnet,flask" />
 </div>
 
 <h4>OS, IDE, & Other Tools</h4>
