@@ -37,12 +37,12 @@ Here are some ideas to get you started:
 
 <h4>Frontend Technologies</h4>
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,react,tailwindcss,css" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,react,nextjs,tailwindcss,css" />
 </div>
 
 <h4>Backend Technologies</h4>
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,azure,dotnet" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,azure,dotnet,mongodb" />
 </div>
 
 <h4>Databases</h4>
