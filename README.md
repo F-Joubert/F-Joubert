@@ -2,7 +2,6 @@
 
 ## About me
 - Software developer for a non-profit organisation
-- Working towards a Platform Developer 1 Certification
 
 <!--
 **F-Joubert/F-Joubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
