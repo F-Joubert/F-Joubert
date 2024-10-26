@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 <summary><h2>Technologies & Tools</h2></summary>
 <h4>Languages</h4>
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,js,py,typescript,cs" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,js,typescript,css,cs,py,java" />
 </div>
 
 <h4>Frontend Technologies</h4>
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,react,nextjs,tailwindcss,css" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=qt,tailwindcss,react,nextjs" />
 </div>
 
 <h4>Backend Technologies</h4>
@@ -46,13 +46,13 @@ Here are some ideas to get you started:
 
 <h4>OS, IDE, & Other Tools</h4>
 <div align="left" style="margin-bottom: 0px">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=debian,windows"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cachyos,debian,windows"/>
 </div>
 <div style="margin-bottom: 0px; padding: 0px">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscodium"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscodium,visualstudio"/>
 </div>
 <div>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,postman,github,bash,qt,sharepoint,powershell,jira"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,postman,github,bash,sharepoint,powershell,jira"/>
 </div>
 </details>
 
