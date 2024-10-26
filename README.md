@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </div>
 </details>
 
-<details open>
+<details>
 <summary><h3>Trailhead Stats</h3></summary>
 <!--TH_Stats:start-->
 
