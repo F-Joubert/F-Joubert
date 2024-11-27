@@ -2,6 +2,8 @@
 
 ## About me
 - Software developer for a non-profit organisation
+- Studying Master of Computer Science
+- Keen to continue learning through collaboration and feedback
 
 <!--
 **F-Joubert/F-Joubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,12 +21,13 @@ Here are some ideas to get you started:
 -->
 <details open>
 <summary><h2>GitHub Stats</h2></summary>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/F-Joubert?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats-two-murex-29.vercel.app/api?username=F-Joubert&theme=github_dark" />
 </a>
-<a href="https://github.com/F-Joubert">
+<a href="https://github.com/F-Joubert?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats-two-murex-29.vercel.app/api/top-langs?username=F-Joubert&theme=github_dark&layout=compact&card_width=100" />
 </a>
+<p>Made through Anurag Hazra's <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a></p>
 </details>
 
 <details open>
