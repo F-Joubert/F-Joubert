@@ -39,12 +39,12 @@ Here are some ideas to get you started:
 
 <h4>Frontend Technologies</h4>
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=qt,tailwindcss,react,nextjs" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=qt,tailwindcss,react,nextjs&titles=true" />
 </div>
 
 <h4>Backend Technologies</h4>
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mongodb,azure,sqlite,postgres,dotnet,flask" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mongodb,azure,sqlite,postgres,dotnet,flask&titles=true" />
 </div>
 
 <h4>OS, IDE, & Other Tools</h4>
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vscodium,visualstudio"/>
 </div>
 <div>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,postman,github,bash,sharepoint,powershell,jira"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,postman,powershell,jira,github,bash,wireshark"/>
 </div>
 </details>
 
