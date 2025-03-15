@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   <img src="https://go-skill-icons.vercel.app/api/icons?i=cachyos,debian,windows"/>
 </div>
 <div style="margin-bottom: 0px; padding: 0px">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscodium,visualstudio"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,vscodium,visualstudio"/>
 </div>
 <div>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=git,postman,powershell,jira,github,bash,wireshark"/>
