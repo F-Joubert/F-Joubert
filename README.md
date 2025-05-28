@@ -1,7 +1,6 @@
-# Hello, I'm Fergus!
+<h1 align="center">Hello, I'm Fergus</h1>
+<h3 align="center">Developer @ an Australian NGO<h3></h3>
 
-## About me
-- Software developer for a non-profit organisation
 - Studying Master of Computer Science
 - Keen to continue learning through collaboration and feedback
 
@@ -21,41 +20,41 @@ Here are some ideas to get you started:
 -->
 <details open>
 <summary><h2>GitHub Stats</h2></summary>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=F-Joubert&theme=onedark&rank=-C,-B,-?" alt="F-Joubert" /></a> </p>
 <a href="https://github.com/F-Joubert?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats-two-murex-29.vercel.app/api?username=F-Joubert&theme=github_dark" />
 </a>
 <a href="https://github.com/F-Joubert?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats-two-murex-29.vercel.app/api/top-langs?username=F-Joubert&theme=github_dark&layout=compact&card_width=100" />
 </a>
-<p>Made through Anurag Hazra's <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a></p>
 </details>
 
 <details open>
 <summary><h2>Technologies & Tools</h2></summary>
 <h4>Languages</h4>
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,js,typescript,css,cs,py,java" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,lua,typescript,py,js,cs,java,rust&theme=dark" />
 </div>
 
 <h4>Frontend Technologies</h4>
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=qt,tailwindcss,react,nextjs&titles=true" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,qt,tailwindcss,react,css,nextjs&titles=true&theme=dark" />
 </div>
 
 <h4>Backend Technologies</h4>
 <div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mongodb,azure,sqlite,postgres,dotnet,flask&titles=true" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=oracle,sqlserver,mongodb,azure,sqlite,postgres,dotnet,flask&titles=true&theme=dark" />
 </div>
 
 <h4>OS, IDE, & Other Tools</h4>
 <div align="left" style="margin-bottom: 0px">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cachyos,debian,windows"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cachyos,debian,windows&theme=dark"/>
 </div>
 <div style="margin-bottom: 0px; padding: 0px">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,vscodium,visualstudio"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=neovim,vscodium,visualstudio&theme=dark"/>
 </div>
 <div>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,postman,powershell,jira,github,bash,wireshark"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,postman,proxmox,powershell,jira,github,wireshark&theme=dark"/>
 </div>
 </details>
 
