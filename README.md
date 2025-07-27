@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <summary><h2>GitHub Stats</h2></summary>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=F-Joubert&theme=onedark&rank=-C,-B,-?" alt="F-Joubert" /></a> </p>
 <a href="https://github.com/F-Joubert?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats-two-murex-29.vercel.app/api?username=F-Joubert&theme=github_dark" />
+  <img height=200 align="center" src="https://github-readme-stats-two-murex-29.vercel.app/api?username=F-Joubert&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/F-Joubert?tab=repositories">
-  <img height=200 align="center" src="https://github-readme-stats-two-murex-29.vercel.app/api/top-langs?username=F-Joubert&theme=github_dark&layout=compact&card_width=100" />
+  <img height=200 align="center" src="https://github-readme-stats-two-murex-29.vercel.app/api/top-langs?username=F-Joubert&hide=typst&theme=github_dark&layout=compact&card_width=100" />
 </a>
 </details>
 
